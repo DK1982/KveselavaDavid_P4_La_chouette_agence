@@ -651,7 +651,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 600;
     color: #575757!important;
 }
 
@@ -678,7 +678,9 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
+    line-height: 1.5em;
+    font-weight: 500;
 }
 
 .tight-width-whitespace {
@@ -706,7 +708,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 26px;
     line-height: 1.4em;
 }
 
