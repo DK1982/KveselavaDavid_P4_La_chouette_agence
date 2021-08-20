@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .navbar {
@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -772,15 +772,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #474736;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f6f6ba!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #3d261c;
     color: #FFFFFF!important;
 }
 
@@ -798,7 +798,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #474736!important;
 }
 
 .ltc-atomic-tangerine:hover {
