@@ -654,7 +654,10 @@ a {
     font-weight: 600;
     color: #575757!important;
 }
-
+.social
+{
+    color:#f1e9e9
+}
 .container {
     max-width: 1000px;
 }
