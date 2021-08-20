@@ -11,6 +11,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    text-decoration: none;
 }
 
 a:hover {
@@ -654,10 +655,11 @@ a {
     font-weight: 600;
     color: #575757!important;
 }
-.social
-{
-    color:#f1e9e9
+
+.social {
+    color:#f1e9e9!important;
 }
+
 .container {
     max-width: 1000px;
 }
